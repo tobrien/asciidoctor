@@ -17,6 +17,8 @@ http://www.methods.co.nz/asciidoc/index.html[AsciiDoc] documents or
 strings into HTML (and, eventually other formats as well...'stay
 tuned!').
 
+I made this change to demonstrate the use of GitHub for Windows.
+
 Asciidoctor uses simple built-in ERB templates to style the output in
 a way that roughly matches the default HTML output of the native
 Python processor. You can override this behavior by providing
